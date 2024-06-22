@@ -36,6 +36,6 @@ The Compass App utilizes the following dependencies:
 ## License
 The Compass App is open-source and released under the [MIT License](LICENSE).
 ## Contact
-For any inquiries or feedback, please contact: Email: NouvButti@Gmail.com Feel free to reach out with any questions or suggestions regarding the Compass App.
+For any inquiries or feedback, please contact: Email: NouvAlQahtani@Gmail.com Feel free to reach out with any questions or suggestions regarding the Compass App.
 
 ---Thank you for using the Compass App! I hope it enhances your navigation experience.
